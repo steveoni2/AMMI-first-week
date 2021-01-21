@@ -1,0 +1,3 @@
+name: Stephen oni
+Background: Javascript software engineer into building data driven tools, also studied physics
+Interest in Machine learning: NLP, Model interpretability
